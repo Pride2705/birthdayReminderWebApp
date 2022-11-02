@@ -1,6 +1,7 @@
-#Read Me
 
-This is a birthday reminder app. It is a simple app that allows you to view current and upcoming birthdays.
+# Read Me
+
+This is a birthday reminder app. It is a simple app that allows you to view upcoming birthdays.
 
 ## Idea
 [https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
